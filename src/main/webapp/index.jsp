@@ -8,10 +8,10 @@
 </head>
 <body>
 <h1>PhotoMosaic</h1>
-	<form action="create_mosaic.do" method="post" enctype="multipart/form-data">
-
-	<input type="file" name="img_to_process" title="фото">
 <h1>from gitHub</h1>
+<form action="create_mosaic.do" method="post" enctype="multipart/form-data">
+
+        <input type="file" name="img_to_process" title="фото">
 	<br>
 	<p>плитка:</p>
 	<label><input type="radio" name="tile_source" value="template">из готового шаблона</label>
