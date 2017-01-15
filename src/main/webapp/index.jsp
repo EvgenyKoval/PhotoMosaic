@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>PhotoMosaic</h1>
-<h1>from gitHub</h1>
+
 <form action="create_mosaic.do" method="post" enctype="multipart/form-data">
 
         <input type="file" name="img_to_process" title="фото">
