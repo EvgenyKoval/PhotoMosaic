@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>PhotoMosaic</h1>
+<h1>PhotoMosaic!</h1>
 
 <form action="create_mosaic.do" method="post" enctype="multipart/form-data">
 
